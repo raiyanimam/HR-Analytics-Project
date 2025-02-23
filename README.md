@@ -1,7 +1,7 @@
 # HR-Analytics-Project
 
 HR Analytics Dashboard
-Associated with Ai VariantAssociated with Ai Variant
+Associated with Ai Variant 
 This human resources initiative looks into how workers at different company levels are quitting their employment. Several variables are considered in examining attrition rates, such as the workers' monthly income, the year of their most recent promotion, their job functions, and their work-life balance. This study is carried out for workers across multiple departments.
 
 
