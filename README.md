@@ -39,3 +39,6 @@ Dataset Details:-
 
 • Dataset Type: Excel Sheet 
 • Dataset Size: 50k records per Data Analysis
+
+<img width="1743" height="743" alt="HR ANALYTICS DASHBOARD " src="https://github.com/user-attachments/assets/d7ae63d9-cd72-48e6-99d7-1320c5810dfe" />
+
